@@ -1,0 +1,13 @@
+---
+title: AWS Elastic Beanstalk
+subtitle: AWS ElasticBeanstalk, AWS CodePipeline, Github, AWS RDS
+layout: default
+modal-id: 2
+img: EB.png
+thumbnail: EB-thumbnail.png
+alt: image-alt
+description:
+    ko: EB를 통해 기본적인 소프트웨어 구성, 프록시 서버 구성, EC2 인스턴스 구성(로드밸런서 추가구성), 보안, 모니터링, 네트워크, 데이터베이스 환경을 사전 구성합니다. 그 후 CodePipeline과 Github를 통해 EB 환경에서 직접 서버를 빌드 및 배포합니다. 데이터베이스 또한 서버와 연결가능하게 추가 구성 후, 각각의 플랫폼 환경에 맞는 기본적인 RESTful API 를 제공합니다.
+    en: We pre-configure the basic software setup, proxy server configuration, EC2 instance setup (with load balancer configuration), security, monitoring, network, and database environment through EB. Then we build and deploy the server directly on the EB environment using CodePipeline and Github. The database is also configured to be connectable with the server, and we provide basic RESTful APIs for each platform environment.
+
+---
