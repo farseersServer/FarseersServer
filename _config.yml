@@ -26,9 +26,11 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: commenting
-    url: https://open.kakao.com/o/gQFDzzYe
-  - title: discord
+  kakao:
+    icon: commenting
+    url: https://open.kakao.com/o/sHc1X6gf
+  discord:
+    icon: discord 
     url: https://discord.gg/VBfFtJp5Tc
 
 # Build settings

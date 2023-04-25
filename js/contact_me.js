@@ -17,7 +17,7 @@ $(document).ready(function() {
       };
 
       $.ajax({
-        url: "https://formspree.io/f/xqkowagz",
+        url: "https://formspree.io/f/mvonddav",
         type: "POST",
         data: formData,
         dataType: "json",
